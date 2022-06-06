@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Home",
+        "id": "home",
+        "html": "<h1>Home</h1><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae, fuga incidunt modi est reiciendis commodi voluptas tempora rerum magni, porro distinctio placeat consequatur inventore accusamus officia exercitationem. Dicta, itaque voluptates.</p>"
+    },
+    {
+        "name": "Chi siamo",
+        "id": "about",
+        "html": "<h1>Chi siamo</h1><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae, fuga incidunt modi est reiciendis commodi voluptas tempora rerum magni, porro distinctio placeat consequatur inventore accusamus officia exercitationem. Dicta, itaque voluptates.</p>"
+    },
+    {
+        "name": "Contatti",
+        "id": "contacts",
+        "html": "<h1>Contatti</h1><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae, fuga incidunt modi est reiciendis commodi voluptas tempora rerum magni, porro distinctio placeat consequatur inventore accusamus officia exercitationem. Dicta, itaque voluptates.</p>"
+    },
+    {
+        "name": "Portfolio",
+        "id": "portfolio",
+        "html": "<h1>Portfolio</h1><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae, fuga incidunt modi est reiciendis commodi voluptas tempora rerum magni, porro distinctio placeat consequatur inventore accusamus officia exercitationem. Dicta, itaque voluptates.</p>"
+    },
+    {
+        "name": "Indirizzo",
+        "id": "adress",
+        "html": "<h1>Indirizzo</h1><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae, fuga incidunt modi est reiciendis commodi voluptas tempora rerum magni, porro distinctio placeat consequatur inventore accusamus officia exercitationem. Dicta, itaque voluptates.</p>"
+    },
+    {
+        "name": "Social",
+        "id": "social",
+        "html": "<h1>Social</h1><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae, fuga incidunt modi est reiciendis commodi voluptas tempora rerum magni, porro distinctio placeat consequatur inventore accusamus officia exercitationem. Dicta, itaque voluptates.</p>"
+    }
+]
